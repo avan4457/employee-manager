@@ -13,11 +13,11 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the Repository:**
 
-   git clone <repository-url>
+   git clone repository-url
 
 2. **Install the dependecies and setup project:**
 
-   cd <app-name>
+   cd app-name
    npm install
 
 3. **Configure database as mentioned below - working with database section**
