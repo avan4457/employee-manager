@@ -13,28 +13,28 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the Repository:**
 
-   git clone repository-url
+   `git clone repository-url`
 
 2. **Install the dependecies and setup project:**
 
-   cd app-name
-   
-   npm install
+   `cd app-name`
 
-4. **Configure database as mentioned below - working with database section**
-5. **Copy .env file to root of the project:**
+   `npm install`
 
-6. **Build the application:**
+3. **Configure database as mentioned below - working with database section**
+4. **Copy .env file to root of the project:**
 
-   npm run build
+5. **Build the application:**
 
-7. **Run the application:**
+   `npm run build`
 
-   npm start
+6. **Run the application:**
 
-8. **Run the local development server:**
+   `npm start`
 
-   npm run dev
+7. **Run the local development server:**
+
+   `npm run dev`
 
 ## Working with database - drizzle
 
@@ -46,11 +46,11 @@ All the schemas and migration file location is set to models folder. Update driz
 
 **Pull the schema from supabase:**
 
-npm run pull
+`npm run pull`
 
 **Publish the updated schema to supabase:**
 
-npm run push
+`npm run push`
 
 ## Documentation - swagger
 
